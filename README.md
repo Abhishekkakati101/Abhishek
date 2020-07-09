@@ -8,6 +8,9 @@ Hello my name is Abhishek kakati, currently a 1st year CSE undergrad student at 
 
 # List to projects:
 1.Character Recognition Project
+
 2.Face Recognition Project
+
 3.Recommendation System Project
+
 4.Species Recognition Project
