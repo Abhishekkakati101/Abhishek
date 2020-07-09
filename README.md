@@ -48,6 +48,7 @@ Hello my name is Abhishek kakati, currently a 1st year CSE undergrad student at 
 1) Project Name : Recommendation System Project
 
 2) Aim of the Project : The aim of a recommender system is to estimate the utility of a set of objects belonging to a given domain, starting from the information available about users and objects. Adaptive e-learning systems are able to automatically generate personalized learning experiences starting from a learner profile and a set of target learning goals. Starting form research results of these fields we defined a methodology to recommend learning goals and to generate learning experiences for learners of an adaptive e-learning system.
+
 3) Tools required for the development of the project : For this project development we does not require much tools, just we need to install a python package 'mlxtend' that takes care of the preprocessig and other stuffs. Just have to make a strong build on the algorithm. Here we have used a datasets containing all the items to be brought from the market.
 
 4) Conclusion : Thus building this project can help people in making the next things easy, by keeping a track on their previous history. This is mostly used in social apps, ecommerce sites etc.
